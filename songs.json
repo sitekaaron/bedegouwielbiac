@@ -706,10 +706,10 @@
   "lyrics": "[:Przez duszę mą płyń:], Duchu Boży przez duszę mą płyń. Twój pokój pełny, wszystkim jesteś mi. Duchu Boży, przez duszę mą płyń."
   },
   {
-  "title": "WEJRZYJ, O JEZU",
-  "number": "116",
-  "mainKey": "D",
-  "lyrics": "Wejrzyj, o Jezu, na prośby moje. Nie mogę nieść tych ciężarów sam. W rozpaczy Ty mi dopomóc możesz, miłość i troskę okażesz nam."
+    "title": "MÓJ BÓG JEST WIELKI",
+    "number": "116",
+    "mainKey": "A",
+    "lyrics": "1. Mój Bóg jest wielki, może przenieść góry, zachować mnie w dolinie, ukryć w czasie burz.\n\n2. Mój Bóg jest wielki, uzdrawia mnie gdym chory, posila mnie gdym słaby, wiecznym Królem On.\n\n3. Mój Bóg jest wielki, On daje mi zbawienie, grzesznym odpuszczenie, On uzdrawia mnie.\n\n4. Mój Bóg jest wielki, dziś jest w nim przebaczenie, żyję jego łaską, chwała Jemu cześć.\n\nRef.: [:Mój Bóg jest wielki, potężny, cudowny, wspaniały.:] Mój Bóg jest wielki."
   },
   {
   "title": "ON PANEM JEST",
@@ -3630,6 +3630,18 @@
     "number": "604",
     "mainKey": "A",
     "lyrics": "1. Kiedyś żyłem w grzechach swych, bez Boga byłem ja, w sercu mieszkał ciągle grzech, była to dola zła. Lecz mnie Jezus, tylko On w świecie odnalazł tym, podał mi Swą świętą dłoń, bym zbawion był.\n\nRef.: [:Miłość to Twa, miłość to Twa Sprawiła, Jezu mój, żem wolny ja!:]\n\n2. Tobie, Jezu, daję dziś serce zbolałe swe, chcę Cię kochać. Ty Sam wiesz, że już Ci służyć chcę. Weź mój czas i każdy dzień Sam kieruj ręką Swą. Do ostatnich życia tchnień Tyś tarczą mą.\n\n3. Duszo droga, nawróć się, ocuć się z grzechów snu, Spójrz, jak Jezus kocha cię, tylko zaufaj Mu! On za ciebie niósł Swój krzyż, Jego posłuchaj słów, uwierz w Niego jeszcze dziś, a będziesz zdrów."
+  },
+  {
+    "title": "NIEGDYŚ PIERWSI TAM UCZNIOWIE",
+    "number": "605",
+    "mainKey": "E",
+    "lyrics": "1. Niegdyś pierwsi tam uczniowie trwali jednomyślnie wciąż, aż się na nich raz cudownie zlał Duch Święty w mocy już.\n\nRef.: [:Panie, zlej tę siłę znów,:] Panie, zlej tę siłę znów i ochrzcij Duchem nas!\n\n2. Tyś tę siłę cudną posłał, z mocą świętą uczniom Twym i języki nowe zesłał, jakoś przyrzekł w słowie Swym.\n\n3. Ta moc święta Ducha Twego, którąś zesłał tam w on czas, jest dla ludu wierzącego; chce napełnić wszystkich nas.\n\n4. Zlej nam znowu Ducha Twego, zlej te siły pierwszych dni, coś dla ludu przyrzekł Swego, byśmy chwałę wznieśli Ci."
+  },
+  {
+    "title": "ON JEST WSZĘDZIE WKOŁO MNIE",
+    "number": "606",
+    "mainKey": "E",
+    "lyrics": "On jest wszędzie wkoło mnie i przy życiu trzyma mnie. Przy życiu trzyma mnie. Przy życiu trzyma mnie. On jest wszędzie wkoło mnie i przy życiu trzyma mnie. Mój Jezus przy życiu trzyma mnie."
   }
 ]
 
