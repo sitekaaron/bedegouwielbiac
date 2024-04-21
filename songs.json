@@ -1551,7 +1551,7 @@
   {
   "title": "JA KOCHAM CIĘ, JEZU",
   "number": "256",
-  "mainKey": "C",
+  "mainKey": "D",
   "lyrics": "1. Ja kocham Cię, Jezu, nad cały ten świat. Dla Ciebie wszystkiego wyrzekam się rad. Wszak w Tobie jedynie ratunek mi dan. Ja kocham Cię, Jezu, Tyś Bóg mój i Pan.\n\n2. Ja kocham, bo pierwszy ukochałeś mnie. Twa śmierć na Golgocie ratunek mi śle. Ja kocham Cię, Jezu dla krwawych Twych ran. Ja kocham Cię, Jezu, Tyś Bóg mój i Pan.\n\n3. Ja kocham Cię teraz, gdy jasny lśni dzień, a także, gdy śmierci przybliży się cień. A w Niebie ma dusza uwielbi Cię tam. Ja kocham Cię, Jezu, Tyś Bóg mój i Pan."
   },
   {
@@ -1755,7 +1755,7 @@
   {
   "title": "CUDOWNA ŁASKA",
   "number": "290",
-  "mainKey": "A",
+  "mainKey": "C",
   "lyrics": "1. Cudowna łaska zawsze będzie pieśnią mą, bo łaska ta obmyła z grzechów mnie. Nie wiem, dlaczego Bóg tak umiłował mnie, zapłacił i przebaczył winy me.\n\nRef.: Kieruję wzrok swój dziś tam na Golgotę, by ujrzeć Krzyż, gdzie Jezus zmarł za mnie. Cudowna łaska wyciągnęła z bagna mnie, zbawiła i obmyła z grzechów mnie."
   },
   {
@@ -3672,7 +3672,21 @@
     "number": "611",
     "mainKey": "E",
     "lyrics":"1. Siłą mą jest Twój krzyż. Siła mą jedynie Ty. Miłość Twa zbawiła mnie. Miłość Twa uwolniła mnie.\n\nRef.1. Bóg, tak ukochał świat, że Swojego Syna dał, by każdy, kto wierzy nie zginął, ale życie wieczne miał.\n\n2. Pragnę znać Twoją moc. Pragnę znać Twój cichy głos. Łaska twa podniosła mnie. Łaska Twa odkupiła mnie.\n\nRef.2. Jezu, w Twojej krwi moja wolność jest. Godne chwały jest imię Twe. Więc oddaję Ci całe życie me. Zbawienie w Tobie jest."
-	}
+ },
+ {
+    "title": "JEST PRZEPIĘKNE MIASTO",
+    "number": "612",
+    "mainKey": "E",
+    "lyrics":"1. Jest przepiękne miasto nad chmurami w górze tam. Odziedziczymy to w tym dniu. Tam z Chrystusem razem już na wieki będziemy. Odziedziczymy to w tym dniu. Ulice złote tam przespacerujemy. Jest tam Piotr i Jan. Wszystko nowym jest. Uścisnę Zbawcy dłoń. O, jaka cudna rzecz. Odziedziczymy to w tym dniu.\n\n2. Wkrótce już On przyjdzie i ujrzymy Jego twarz. Odziedziczymy to w tym dniu. On wskaże mi mój pałac, który przygotował tam. Odziedziczymy to w tym dniu. Ulice złote tam przespacerujemy. Jest tam Piotr i Jan. Wszystko nowym jest. Uścisnę Zbawcy dłoń. O, jaka cudna rzecz. Odziedziczymy to w tym dniu."
+},
+{
+    "title": "WIEM, PEWNEGO DNIA ZROBIĘ KROK",
+    "number": "613",
+    "mainKey": "D",
+    "lyrics":"Wiem, pewnego dnia zrobię krok do mej teofanii. Pewnego dnia ostatni krok do mej teofanii. Wiem, pewnego dnia ten krok wyzwoli całkiem mnie. Ma teofania, słyszę - wzywa mnie. Brzmi wezwanie - wstąp trochę wyżej. Do Słowa ciągnie mnie. Wstąp trochę wyżej do miłości Agape. Wstąp trochę wyżej przez niebiosa wzbijaj się. Ma teofania - słyszę, wzywa mnie."
+}
+	
+	
 ]
 
   
